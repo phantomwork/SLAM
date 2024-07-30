@@ -27,9 +27,6 @@ Pythonic implementation of an ORB feature matching based Monocular-vision SLAM.
 
 
 
-<!-- PROJECT LOGO -->
-![logo](https://user-images.githubusercontent.com/35187768/97795512-429c1f80-1bc4-11eb-9580-8a5bf63d839a.png)
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
