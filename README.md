@@ -1,4 +1,4 @@
-# SLAMPy-Monocular-SLAM-implementation-in-Python
+# SLAM-With-Monocluar-Camera
 Pythonic implementation of an ORB feature matching based Monocular-vision SLAM. 
 <!--
 *** Thanks for checking out the application. If you have a suggestion that would
